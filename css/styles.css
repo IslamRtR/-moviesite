@@ -539,9 +539,10 @@ h1 {
     }
 
     .header {
-        margin: 10px;
+        margin: 20px;
         padding: 10px;
         border-radius: 10px;
+        width: 90%;
     }
 
     .header-container {
@@ -657,7 +658,7 @@ h1 {
 
     .footer{
         position: relative;
-        top: 1000px;
+        top: 1200px;
         width: 90%;
     }
 
