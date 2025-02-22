@@ -115,7 +115,7 @@ h1 {
     font-size: 40px;
     width: 800px;
     text-align: center;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 
 .displayMovies {
@@ -526,7 +526,7 @@ h1 {
         color: #000;
         position: fixed;
         top: 60px;
-        right: 690px;
+        right: 790px;
         background-color: #fff;
         padding: 30px;
         box-shadow: 0px 0px 100px 100px rgba(34, 60, 80, 0.2);
@@ -636,19 +636,6 @@ h1 {
         padding: 30px;
     }
 
-    .otzyv-box{
-        padding: 10px;
-    }
-
-    .otzyv-img{
-        width: 90%;
-        height: 80%;
-        border-radius: 50%;
-        object-fit: cover;
-        margin-top: 3px;
-        margin-left: -80px;
-    }
-
     .recomendation-box{
         position: relative;
         top: 1100px;
@@ -659,9 +646,19 @@ h1 {
         color: #000;
     }
 
+    .displayMovies-img {
+        position: relative;
+        right: 80px;
+        width: 200%;
+        height: 200px;
+        border-radius: 20px;
+        object-fit: cover;
+    }
+
     .footer{
         position: relative;
         top: 1000px;
+        width: 90%;
     }
 
     #nazad,
